@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Edit question and resend",
+    "description": "Edit a sent question (images resent) and restart from it: later messages leave the context, and the original session can be kept or archived."
+  }
+}
