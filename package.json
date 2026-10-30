@@ -1,6 +1,6 @@
 {
   "name": "dsh-edit-question",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "编辑已发送的提问并重新发送：图片一并重发，从该提问重新开始，丢弃其后的全部对话记录。",
   "keywords": [
     "dsh",
