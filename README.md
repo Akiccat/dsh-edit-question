@@ -23,15 +23,15 @@ DSH 没有「删除会话中某段历史」的官方能力：会话文件是多�
 
 ## 安装
 
-### 从 npm（尚未发布）
-
-> 这个包还没发布到 npm（计划中）。发布之后一行即可：
+### 从 npm
 
 ```sh
 dsh plugin --profile <profile> add dsh-edit-question
 ```
 
-在那之前请用下面的手工挂载方式。
+包页：<https://www.npmjs.com/package/dsh-edit-question>
+
+需要改源码、本地联调时，用下面的手工挂载方式。
 
 ### 手工挂载（源码）
 
